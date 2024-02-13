@@ -54,6 +54,7 @@ h4 {
 
 .post > .date,
 .post > .actions {
+    margin-left:10px;
     float: right;
 }
 
